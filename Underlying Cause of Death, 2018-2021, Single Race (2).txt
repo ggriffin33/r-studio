@@ -1,0 +1,660 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Year"	"Year Code"	"Place of Death"	"Place of Death Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	40	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, virus not identified"	"J11.0"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	749	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	290	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	117	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	832	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Status asthmaticus"	"J46"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Bronchiectasis"	"J47"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	305	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	46	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	162	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	73	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	45	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	37	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"			3242	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	223	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Respiratory failure, unspecified"	"J96.9"	11	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"			410	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	47	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	72	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	54	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1737	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Bronchiectasis"	"J47"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	149	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Respiratory failure, unspecified"	"J96.9"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	19	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Decedent's home"	"4"			2356	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	162	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	164	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1424	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	89	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	122	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic respiratory failure"	"J96.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Respiratory failure, unspecified"	"J96.9"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"	"Other disorders of lung"	"J98.4"	13	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Hospice facility"	"5"			2208	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	77	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Emphysema, unspecified"	"J43.9"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	45	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	662	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Respiratory failure, unspecified"	"J96.9"	15	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Nursing home/long term care"	"6"			965	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	30	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	382	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	44	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"	"Other"	"7"			603	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2018"	"2018"					9789	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, virus not identified"	"J11.0"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	665	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	43	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	275	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	122	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	726	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Bronchiectasis"	"J47"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	319	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	158	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	84	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	49	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	57	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	16	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"			2955	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Emphysema, unspecified"	"J43.9"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	194	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"			380	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	77	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	59	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1655	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	40	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Bronchiectasis"	"J47"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	175	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Respiratory failure, unspecified"	"J96.9"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	17	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Decedent's home"	"4"			2292	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	185	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	183	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1435	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Asthma, unspecified"	"J45.9"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Bronchiectasis"	"J47"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	91	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	154	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic respiratory failure"	"J96.1"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"	"Respiratory failure, unspecified"	"J96.9"	18	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Hospice facility"	"5"			2296	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	69	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Emphysema, unspecified"	"J43.9"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	44	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	634	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Respiratory failure, unspecified"	"J96.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Other disorders of lung"	"J98.4"	13	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Nursing home/long term care"	"6"			920	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	45	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	410	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"	"Interstitial pulmonary disease, unspecified"	"J84.9"	15	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"	"Other"	"7"			626	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2019"	"2019"					9472	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	38	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, virus not identified"	"J11.0"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Viral pneumonia, unspecified"	"J12.9"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to Klebsiella pneumoniae"	"J15.0"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to staphylococcus"	"J15.2"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	48	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	715	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	39	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	331	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	114	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	696	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Bronchiectasis"	"J47"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	317	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	121	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	67	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	51	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	39	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	49	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	18	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"			3049	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	200	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	22	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"			408	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	54	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	87	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	82	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	48	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1879	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	51	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Bronchiectasis"	"J47"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	187	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Respiratory failure, unspecified"	"J96.9"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	20	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Decedent's home"	"4"			2583	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	199	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	177	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1058	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	80	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	99	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic respiratory failure"	"J96.1"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Respiratory failure, unspecified"	"J96.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"	"Other disorders of lung"	"J98.4"	15	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Hospice facility"	"5"			1826	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	57	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Emphysema, unspecified"	"J43.9"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	556	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	10	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Nursing home/long term care"	"6"			794	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	358	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Asthma, unspecified"	"J45.9"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	38	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"	"Other"	"7"			576	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2020"	"2020"					9241	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Other viral pneumonia"	"J12.8"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to Pseudomonas"	"J15.1"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	752	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	340	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	120	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	626	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	30	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Bronchiectasis"	"J47"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	344	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	144	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	84	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	40	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	46	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	47	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	18	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"			2963	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Emphysema, unspecified"	"J43.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	171	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonitis due to food and vomit"	"J69.0"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Respiratory failure, unspecified"	"J96.9"	10	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"			384	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	63	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	86	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	71	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	45	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1750	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Bronchiectasis"	"J47"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	212	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	28	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	16	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Decedent's home"	"4"			2475	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	163	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	156	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	984	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Asthma, unspecified"	"J45.9"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	75	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	121	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	15	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Hospice facility"	"5"			1668	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	477	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	30	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	14	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Nursing home/long term care"	"6"			680	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	49	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	369	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	33	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"	"Other"	"7"			583	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"	"2021 "	"2021"					8757	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Female"	"F"							37259	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, virus not identified"	"J11.0"	39	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to Pseudomonas"	"J15.1"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to staphylococcus"	"J15.2"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	40	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	778	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	83	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	344	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	105	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	816	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	424	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	53	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	239	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	92	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pyothorax without fistula"	"J86.9"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	61	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	64	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	27	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"			3584	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Emphysema, unspecified"	"J43.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	232	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"			435	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	49	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	96	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	73	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	48	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1614	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Pneumoconiosis due to asbestos and other mineral fibres"	"J61"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	212	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	35	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Decedent's home"	"4"			2316	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Influenza with pneumonia, virus not identified"	"J11.0"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	186	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	189	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1188	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	123	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	154	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Chronic respiratory failure"	"J96.1"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Respiratory failure, unspecified"	"J96.9"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"	"Other disorders of lung"	"J98.4"	17	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Hospice facility"	"5"			2086	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	64	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Emphysema, unspecified"	"J43.9"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	43	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	471	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	10	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Nursing home/long term care"	"6"			710	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	265	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"	"Other"	"7"			440	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2018"	"2018"					9580	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, virus not identified"	"J11.0"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to Pseudomonas"	"J15.1"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to staphylococcus"	"J15.2"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	729	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	62	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	329	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	101	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	777	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Bronchiectasis"	"J47"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	408	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	235	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	87	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	48	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	38	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	36	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"			3335	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	30	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Emphysema, unspecified"	"J43.9"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	211	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonitis due to food and vomit"	"J69.0"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	"Respiratory failure, unspecified"	"J96.9"	17	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"			440	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	92	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	46	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	39	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1637	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Pneumoconiosis due to asbestos and other mineral fibres"	"J61"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	270	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Acute respiratory failure"	"J96.0"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Respiratory failure, unspecified"	"J96.9"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	14	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Decedent's home"	"4"			2355	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	154	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	182	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	28	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1167	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	135	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	168	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Chronic respiratory failure"	"J96.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Respiratory failure, unspecified"	"J96.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"	"Other disorders of lung"	"J98.4"	11	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Hospice facility"	"5"			2020	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Emphysema, unspecified"	"J43.9"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	420	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	40	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"	"Respiratory failure, unspecified"	"J96.9"	14	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Nursing home/long term care"	"6"			666	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	38	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	30	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	279	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	40	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"	"Other"	"7"			492	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2019"	"2019"					9311	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza due to identified avian influenza virus"	"J09"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, influenza virus identified"	"J10.0"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, influenza virus identified"	"J10.1"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with pneumonia, virus not identified"	"J11.0"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Other viral pneumonia"	"J12.8"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Viral pneumonia, unspecified"	"J12.9"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to Pseudomonas"	"J15.1"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to staphylococcus"	"J15.2"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	49	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	873	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	53	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	424	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	92	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	719	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	409	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	46	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	184	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	80	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pyothorax without fistula"	"J86.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	38	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	28	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"			3503	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	55	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Emphysema, unspecified"	"J43.9"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	214	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonitis due to food and vomit"	"J69.0"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	30	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Interstitial pulmonary disease, unspecified"	"J84.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	"Respiratory failure, unspecified"	"J96.9"	15	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"			482	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Medical Facility - Dead on Arrival"	"3"			10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	70	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	101	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	73	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	44	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1797	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Bronchiectasis"	"J47"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	284	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Respiratory failure, unspecified"	"J96.9"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	16	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Decedent's home"	"4"			2644	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	173	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	190	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	983	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	125	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	123	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Chronic respiratory failure"	"J96.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"	"Other disorders of lung"	"J98.4"	15	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Hospice facility"	"5"			1816	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	56	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Emphysema, unspecified"	"J43.9"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	47	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	365	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	53	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	11	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Nursing home/long term care"	"6"			603	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	42	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	32	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	242	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	42	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"	"Other"	"7"			489	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2020"	"2020"					9547	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Other viral pneumonia"	"J12.8"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Viral pneumonia, unspecified"	"J12.9"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to Pseudomonas"	"J15.1"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonia due to staphylococcus"	"J15.2"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Bacterial pneumonia, unspecified"	"J15.9"	58	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Lobar pneumonia, unspecified"	"J18.1"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonia, unspecified"	"J18.9"	874	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Emphysema, unspecified"	"J43.9"	65	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	372	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	100	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	680	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Asthma, unspecified"	"J45.9"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumonitis due to food and vomit"	"J69.0"	556	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Adult respiratory distress syndrome"	"J80"	40	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pulmonary oedema"	"J81"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	223	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Interstitial pulmonary disease, unspecified"	"J84.9"	95	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pyothorax without fistula"	"J86.9"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pleural effusion, not elsewhere classified"	"J90"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Pneumothorax, unspecified"	"J93.9"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Acute respiratory failure"	"J96.0"	56	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Chronic respiratory failure"	"J96.1"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Respiratory failure, unspecified"	"J96.9"	59	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"	"Other disorders of lung"	"J98.4"	20	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Inpatient"	"1"			3601	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonia, unspecified"	"J18.9"	44	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Emphysema, unspecified"	"J43.9"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	202	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Asthma, unspecified"	"J45.9"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Pneumonitis due to food and vomit"	"J69.0"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Chronic respiratory failure"	"J96.1"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"	"Respiratory failure, unspecified"	"J96.9"	11	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Medical Facility - Outpatient or ER"	"2"			424	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Pneumonia, unspecified"	"J18.9"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Centrilobular emphysema"	"J43.2"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Emphysema, unspecified"	"J43.9"	106	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	87	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	1671	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Asthma, unspecified"	"J45.9"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Pneumoconiosis due to asbestos and other mineral fibres"	"J61"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Pneumonitis due to food and vomit"	"J69.0"	38	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	325	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Interstitial pulmonary disease, unspecified"	"J84.9"	37	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Acute respiratory failure"	"J96.0"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Chronic respiratory failure"	"J96.1"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Respiratory failure, unspecified"	"J96.9"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"	"Other disorders of lung"	"J98.4"	20	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Decedent's home"	"4"			2556	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Bacterial pneumonia, unspecified"	"J15.9"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Pneumonia, unspecified"	"J18.9"	181	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Emphysema, unspecified"	"J43.9"	36	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	168	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"	"J44.1"	28	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	875	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Pneumonitis due to food and vomit"	"J69.0"	128	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	141	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Interstitial pulmonary disease, unspecified"	"J84.9"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"	"Acute respiratory failure"	"J96.0"	13	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Hospice facility"	"5"			1699	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Pneumonia, unspecified"	"J18.9"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	314	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Pneumonitis due to food and vomit"	"J69.0"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"	"Chronic respiratory failure"	"J96.1"	11	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Nursing home/long term care"	"6"			473	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"	"Pneumonia, unspecified"	"J18.9"	43	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"	"Emphysema, unspecified"	"J43.9"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	242	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"	"Pneumonitis due to food and vomit"	"J69.0"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	30	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"	"Other"	"7"			451	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"	"2021 "	"2021"					9211	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"Male"	"M"							37649	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"									74908	Not Applicable	Not Applicable
+"Total"											74908	Not Applicable	Not Applicable
+"---"
